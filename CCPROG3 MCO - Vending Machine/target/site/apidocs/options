@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/Roimarc/Desktop/MCO2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Roimarc/Desktop/MCO2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MCO2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'MCO2 1.0-SNAPSHOT API'
